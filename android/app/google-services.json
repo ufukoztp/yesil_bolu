@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "530536917326",
+    "project_id": "yesil-bolu",
+    "storage_bucket": "yesil-bolu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530536917326:android:a50f18ef5ec3a90367d61f",
+        "android_client_info": {
+          "package_name": "rasa.ist.urbanspaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530536917326-2oabci8pjdtafuf491gdfb8t34569rt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rasa.ist.urbanspaces",
+            "certificate_hash": "446f0521fb6170caf2d0ca734a16d57a3c34df9c"
+          }
+        },
+        {
+          "client_id": "530536917326-5crd5pm3beshianorc7fiu3277if2hjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rasa.ist.urbanspaces",
+            "certificate_hash": "3476836ada57cf4a2fe0d67c090bdfd0bc957294"
+          }
+        },
+        {
+          "client_id": "530536917326-s8ssrjc7t2cpn4u7uc2jmr056c5nq054.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rasa.ist.urbanspaces",
+            "certificate_hash": "af5f681478a056823b0476cc0313f0c12bd9ad14"
+          }
+        },
+        {
+          "client_id": "530536917326-t0cse8uh0percgpf5dif4oun546mogrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHkZ_SurcGc3c2aytpY-3Cr6a7W7Axco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530536917326-t0cse8uh0percgpf5dif4oun546mogrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

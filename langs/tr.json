@@ -1,0 +1,79 @@
+{
+  "onb_descp_1": "Kendi ihtiyaç ve isteklerinize göre etrafınızdaki yeşil alanları keşfedip, kaliteli ve eğlenceli vakit geçirebilirsin.",
+  "onb_descp_2": "Filtreleme sistemi ile o anki ihtiyaçlarınıza uygun parkları anında görüntüleyebilirsin.",
+  "onb_descp_3": "Parkları inceleyip değerlendirebilir ve tek tuşla yol tarifi alabilirsin hazırsan keşfet!",
+
+  "have_an_idea": "Bir düşüncen mi var?",
+  "share": "Paylaş",
+  "next": "İlerle",
+  "start": "Başla",
+  "skip": "Geç",
+
+
+
+  "sit_field": "Oturma alanı",
+  "accessible": "Engelli Dostu",
+  "wc": "WC",
+  "culture": "Kültürel öğe",
+  "eat": "Yeme İçme",
+  "car_park": "Otopark",
+  "basketball": "Basketbol",
+  "sport_field":"Spor Alanı" ,
+  "bicycle_path": "Bisiklet Yolu",
+  "running_track":"Koşu Yolu",
+  "wifi": "Wi-Fi",
+
+
+  "hello_world": "Merhaba Dünya",
+  "settings": "Ayarlar",
+  "home": "Anasayfa",
+  "apply": "Uygula",
+  "rating_comment_tap": "Puan ve yorum için buraya tıkla",
+  "sign_google": "Google ile giriş yap",
+  "sign_desc": "Lütfen önce giriş yapınız.",
+  "filter": "Filtrelemek için dokun",
+  "slide_detail": "Ayrıntılar için yukarı kaydırın",
+  "take_me_here": "Beni buraya götür!",
+  "park_points": "Park puanı",
+  "accessible": "Engelli Dostu",
+  "eat": "Yeme İçme",
+  "wc": "Tuvalet",
+  "culture": "Kültürel Öğe",
+  "car_park": "Otopark",
+  "sit_fields": "Oturma Alanı",
+  "profile": "Profil",
+  "basarimlar": "Başarımlar",
+  "green_areas_discovered": "Keşfedilen Yeşil Alanlar",
+  "completed_tasks": "Tamamlanan Görevler",
+  "level": "Seviye",
+  "join": "Katıl",
+  "join_event": "Etkinlik kaydınız alındı",
+  "close": "Kapat",
+
+
+  "join_wrong_desc1": "Bu etkinlikte zaten kaydınız bulunmaktadır.",
+  "organizer": "Düzenleyen",
+  "participant": "Katılımcı",
+  "events_for_your": "Senin için etkinlikler",
+  "events": "Etkinlikler",
+
+
+  "swipe_details": "Ayrıntılar için yukarı kaydırınız",
+
+
+
+  "Basketbol_content": "Çevrende yürüme mesafesinde bir basketbol sahası bulmak mümkün. Sahaların yüzeyleri genellikle beton veya asfalt gibi standart kaplama malzemelerinden yapılır.",
+  "Spor_Alani_content": "Yeşil alanlarda bulunan vücut geliştirme barları, spor aletleri ile egzersizinizi bir yeşil alanda yapmanın keyfinin yanı sıra kendinizi daha dinç ve dinamik hale getirebilirsiniz.",
+  "Bisiklet_Yolu_content": "Sürdürülebilir bir çevre için alternatif ulaşım araçlarını rahatlıkla kullanabilirsiniz.",
+  "Kosu_Parkuru_content": "Yeşil Alanlarda bulunan koşu parkurları sayesinde önünüze herhangi bir engel çıkmadan, koşuya uygun tasarlanmış zeminlerde hem antrenman hem de sağlık amaçlı koşular gerçekleştirebilirsiniz.",
+  "Yürüyüs_Yolu_content": "Yürüyüş yapmak, beden ve zihin sağlığı açısından çok önemlidir. Yeşil alanlarda bulunan yürüyüş yollarında yeşilin tadını çıkarabilirsiniz.",
+  "Wifi_content": "En rahat ettiğiniz ortamlarda bile dünyadan kopmadan internete ücretsiz bağlanabilirsiniz.",
+
+
+  "wc_content": "Yeşil alanlarda bulunan her bireye uygun el yıkama, tuvalet, bebek ihtiyaçlarını karşılayabilirsiniz.",
+  "accessible_content": "Engelli bireyler de engelsiz bir dünyada özgürce dolaşıp, yeşil alanlara rahatlıkla giriş çıkış yapıp, etkinliklerin tadını çıkarabilirler.",
+  "culture_content": "Yeşil Alanlarda bulunan tarihi ve sanat değeri taşıyan yapıları ve eserleri ziyaret edebilirsiniz.",
+  "eat_content": "Yeşil Alanlarda geçirdiğiniz keyifli vakit sonrası çevresinde bir yorgunluk kahvesi içip, bir şeyler yiyebilirsiniz.",
+  "sit_fields_content": "Ferah bir ortamda oturma alanları ile dinlenebilir, ve sevdiklerinizle sohbet edebilirsiniz."
+
+}

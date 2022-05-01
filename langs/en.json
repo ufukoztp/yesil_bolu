@@ -1,0 +1,87 @@
+{
+  "onb_descp_1": "You can explore the green areas around you according to your own needs and wishes and spend quality and fun time.",
+  "onb_descp_2": "With the filtering system, you can instantly view the parks that suit your current needs.",
+  "onb_descp_3": "You can review and evaluate the parks and get directions with one click, if you're ready, explore!",
+
+  "have_an_idea": "Have an idea?",
+  "share": "Share",
+  "next": "Next",
+  "start": "Start",
+  "skip": "Skip",
+
+
+
+  "sit_field": "Sit Field",
+  "accessible": "Accessible",
+  "wc": "WC",
+  "culture": "Culture",
+  "eat": "Eat",
+  "car_park": "Car Park",
+  "basketball": "Basketball",
+  "sports_field":"Sports Field" ,
+  "bicycle_path": "Bicycle Path",
+  "running_track":"Running Track",
+  "wifi": "Wi-Fi",
+
+
+  "hello_world": "Hello world",
+  "settings": "Settings",
+  "home": "Home",
+  "apply": "Apply",
+  "no_point": "No points yet",
+  "rating_comment_tap": "Click here for rating and comment",
+  "sign_google": "Sign in with google",
+  "sign_desc": "Your registration for the event has been received.",
+  "filter": "Tap to filter",
+  "slide_detail": "Swipe up for details",
+  "take_me_here": "Take me here!",
+  "park_points": "Rating",
+
+
+  "sport_field": "Fitness Equipments",
+  "accessible": "Accessible",
+  "eat": "Eateries",
+  "wc": "WC",
+  "culture": "Sculptures",
+  "car_park": "Carpark",
+  "sit_field": "Seating",
+  "profile": "Profile",
+  "basarimlar": "Achiecements",
+  "green_areas_discovered": "Parks discovered",
+  "completed_tasks": "Quests completed",
+  "level": "level",
+
+
+  "join": "Join",
+  "join_event": "Your registration for the event has been received.",
+  "close": "Close",
+  "join_wrong_desc1": "You are already registered for this event.",
+  "creater": "Organizer",
+  "participant": "participant",
+  "events_for_you": "Events for you",
+  "events": "Events",
+
+
+  "swipe_details": "Swipe up for details",
+
+
+
+
+  "Basketbol_content": "Çevrende yürüme mesafesinde bir basketbol sahası bulmak mümkün. Sahaların yüzeyleri genellikle beton veya asfalt gibi standart kaplama malzemelerinden yapılır.",
+  "Spor_Alani_content": "Yeşil alanlarda bulunan vücut geliştirme barları, spor aletleri ile egzersizinizi bir yeşil alanda yapmanın keyfinin yanı sıra kendinizi daha dinç ve dinamik hale getirebilirsiniz.",
+  "Bisiklet_Yolu_content": "Sürdürülebilir bir çevre için alternatif ulaşım araçlarını rahatlıkla kullanabilirsiniz.",
+  "Kosu_Parkuru_content": "Yeşil Alanlarda bulunan koşu parkurları sayesinde önünüze herhangi bir engel çıkmadan, koşuya uygun tasarlanmış zeminlerde hem antrenman hem de sağlık amaçlı koşular gerçekleştirebilirsiniz.",
+  "Yürüyüs_Yolu_content": "Yürüyüş yapmak, beden ve zihin sağlığı açısından çok önemlidir. Yeşil alanlarda bulunan yürüyüş yollarında yeşilin tadını çıkarabilirsiniz.",
+  "Wifi_content": "En rahat ettiğiniz ortamlarda bile dünyadan kopmadan internete ücretsiz bağlanabilirsiniz.",
+
+
+  "wc_content": "Yeşil alanlarda bulunan her bireye uygun el yıkama, tuvalet, bebek ihtiyaçlarını karşılayabilirsiniz.",
+  "accessible_content": "Engelli bireyler de engelsiz bir dünyada özgürce dolaşıp, yeşil alanlara rahatlıkla giriş çıkış yapıp, etkinliklerin tadını çıkarabilirler.",
+  "culture_content": "Yeşil Alanlarda bulunan tarihi ve sanat değeri taşıyan yapıları ve eserleri ziyaret edebilirsiniz.",
+  "eat_content": "Yeşil Alanlarda geçirdiğiniz keyifli vakit sonrası çevresinde bir yorgunluk kahvesi içip, bir şeyler yiyebilirsiniz.",
+  "sit_fields_content": "Ferah bir ortamda oturma alanları ile dinlenebilir, ve sevdiklerinizle sohbet edebilirsiniz."
+
+
+
+
+}
